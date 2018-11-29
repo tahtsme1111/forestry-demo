@@ -9,4 +9,5 @@ fields:
   hidden: false
   default: post
 pages:
+- _posts/hellow rold/ded.md
 - _posts/dede.md
